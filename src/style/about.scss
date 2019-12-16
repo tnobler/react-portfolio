@@ -1,0 +1,23 @@
+.content-page-wrapper {
+
+  .right-column {
+
+    .about-link {
+      text-decoration: none;
+      height: 22px;
+      border-bottom: 1px solid transparent;
+      transition: 0.5s ease-in-out;
+      display: contents;
+
+      color: $teal;
+      text-decoration: none;
+      &:hover {
+        color: $dark-teal;
+      }
+
+      &:hover {
+        border-bottom: 1px solid black;
+      }
+    }
+  }
+}

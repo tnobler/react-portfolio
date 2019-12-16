@@ -20,7 +20,7 @@ export default function() {
               <FontAwesomeIcon icon="phone" />
             </div>
             <div className="text">
-              555-555-5555
+              806-781-9492
             </div>
           </div>
 
@@ -29,7 +29,7 @@ export default function() {
               <FontAwesomeIcon icon="envelope" />
             </div>
             <div className="text">
-              tanner@example.com
+              tanner@rebuscap.com
             </div>
           </div>
 
